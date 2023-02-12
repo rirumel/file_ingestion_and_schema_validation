@@ -1,0 +1,22 @@
+0:
+  0: 'Unnamed: 0'
+  1: id
+  2: original_title
+  3: title
+  4: original_language
+  5: overview
+  6: tagline
+  7: release_date
+  8: poster_path
+  9: popularity
+  10: vote_count
+  11: vote_average
+  12: budget
+  13: revenue
+  14: runtime
+  15: status
+  16: adult
+  17: backdrop_path
+  18: genre_names
+  19: collection
+  20: collection_name
